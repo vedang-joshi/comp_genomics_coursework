@@ -3,7 +3,7 @@
 This repository contains the MATLAB code to reproduce the proposed neural network in the coursework for [EMATM0004 Computational Genomics and Bioinformatics Algorithms](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=EMATM0004). 
 
 ## Requirements
-This code was written using MATLAB R20202b, alongwith the Bioinformatics toolbox. 
+This code was written using MATLAB R20202b, alongwith the [Bioinformatics toolbox](https://uk.mathworks.com/products/bioinfo.html). 
 
 ## Authors
 
